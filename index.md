@@ -1,19 +1,22 @@
 ## Donaciones
 Selecciona una opcion de Donacion
 
-# PayPal
-● [Whiptv Latino Web](http://ouo.io/HVAo10)
+### PayPal
+● [Dolares (USD, Internacional)](http://ouo.io/4wS21Q)
 
-# Mercado Pago
-● [Whiptv Latino Web 2](http://ouo.io/6vKyP7)
+● [Pesos Mexicanos (MXN, México)](http://ouo.io/8ygGQ)
 
-● [Sube tu lista a la app](http://ouo.io/b2N9ag)
+### Mercado Pago
+(Varios Metodos de Pago)
+● [Dona 50 pesos - 2.5 dolares aprox.](http://mpago.la/xopS)
 
-● [Sube tu lista a la app 2](http://ouo.io/cbn9FY)
+● [Dona 100 pesos - 5 dolares aprox.](http://mpago.la/YBKj)
 
-● [Donaciones](https://whiptvlatino.github.io/Donaciones/)
+● [Dona 150 pesos - 7.5 dolares aprox.](http://mpago.la/1lMJ)
 
-● [Síguenos en Facebook!](https://www.facebook.com/whiptvlat)
+● [Dona 200 pesos - 10 dolares aprox.](http://mpago.la/KsGU)
 
+● [Otro monto - Mandar mensaje a la página](https://www.facebook.com/whiptvlat)
 
-
+### Oxxo - Seven Eleven - Banco Banorte
+● [Mandar mensaje a la página](https://www.facebook.com/whiptvlat)
