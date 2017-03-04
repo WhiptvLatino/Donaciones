@@ -1,13 +1,12 @@
 ## Donaciones
-Selecciona una opcion de Donacion
+Selecciona una opción de Donacion
 
 ### PayPal
 ● [Dolares (USD, Internacional)](http://ouo.io/4wS21Q)
 
 ● [Pesos Mexicanos (MXN, México)](http://ouo.io/8ygGQ)
 
-### Mercado Pago
-(Varios Metodos de Pago)
+### Mercado Pago (Varios Metodos de Pago)
 ● [Dona 50 pesos - 2.5 dolares aprox.](http://mpago.la/xopS)
 
 ● [Dona 100 pesos - 5 dolares aprox.](http://mpago.la/YBKj)
