@@ -2,9 +2,9 @@
 Selecciona una opción de Donacion
 
 ### PayPal
-● [Dolares (USD, Internacional)](http://ouo.io/4wS21Q)
+● [Dolares (USD, Internacional)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5H7C8YK86B9K8)
 
-● [Pesos Mexicanos (MXN, México)](http://ouo.io/8ygGQ)
+● [Pesos Mexicanos (MXN, México)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2BZEG89CYU8P6)
 
 ### Mercado Pago (Varios Metodos de Pago)
 ● [Dona 50 pesos - 2.5 dolares aprox.](http://mpago.la/xopS)
